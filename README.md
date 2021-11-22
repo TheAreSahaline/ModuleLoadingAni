@@ -1,13 +1,5 @@
 # Animation "loading"
-Module for creating loading animation in the projekt
-
-Used Modules:
-  
-  -Time
-  
-  -Random
-  
-  -Os(cmd)
+Module for creating "loading" animation
 
 Animation functiont:
   
