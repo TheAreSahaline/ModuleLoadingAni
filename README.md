@@ -9,7 +9,7 @@ Used Modules:
   
   -Os(cmd)
 
-Animation options:
+Animation functiont:
   
   1-loadAni.loadingAniCube(0.4,0)
   
