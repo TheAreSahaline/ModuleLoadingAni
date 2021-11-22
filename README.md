@@ -11,9 +11,9 @@ Used Modules:
 
 Animation functiont:
   
-  1-loadAni.loadAniCube(0.4,0)
+  1-LoadAni.loadAniCube(0.4,0)
   
-  2-loadAni.loadAniSlesh()
+  2-LoadAni.loadAniSlesh()
   
   1->█████<
   
