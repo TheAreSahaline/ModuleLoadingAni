@@ -20,6 +20,6 @@ Animation options:
   2-[///////////]
 
 
-First Argument- Delay Time(standart 0.4)
+First Argument- Delay Time(standart 0.3)
 
 Second Argument- End Animation(Standart 1) 1 or 0
