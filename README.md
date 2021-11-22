@@ -1,4 +1,4 @@
-# Animation as loading
+# Animation "loading"
 Module for creating loading animation in the projekt
 
 Used Modules:
