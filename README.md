@@ -3,9 +3,9 @@ Module for creating "loading" animation
 
 Animation functiont:
   
-  1-LoadAni.loadAniCube(0.4,0)
+  1-Load.AniCube(0.4,0)
   
-  2-LoadAni.loadAniSlesh()
+  2-Load.AniSlesh()
   
   1->█████<
   
